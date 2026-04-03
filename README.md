@@ -32,7 +32,7 @@ GraphRAG-based Policy Q&A with Neo4j KG + ChromaDB vector search + 5-dim halluci
 <tr>
 <td width="50%">
 
-#### 📊 [Hybrid Precision](https://github.com/PatienceQi/RAGAS-)
+#### 📊 [Hybrid Precision](https://github.com/PatienceQi/hybrid-precision)
 Information-theory-driven evaluation metric for hybrid retrieval in RAG. **238.6% accuracy improvement** over standard RAGAS. Adopted by **3 research teams**.
 
 `Evaluation` `Information Theory` `RAGAS` `Python`
